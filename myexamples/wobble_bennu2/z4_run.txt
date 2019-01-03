@@ -1,0 +1,17 @@
+a 1.260
+b 1.260
+c 0.630
+vol_ratio 1.000000
+Young's_modulus 13.365153
+Young's_modulus big 12.203454
+mush_distance 0.2760
+mean_L (mean spring length)  0.2100
+relaxation_time  3.811e-03
+viscosity   1.860e-02
+sqrt I1/I3  0.940 should be an axis ratio 
+sqrt I1/I2  0.974 should be an axis ratio 
+theta = 0.647694 radians, 37.110137 (degrees)
+omega_prec= 4.314e-02
+omega_3= 0.875466
+barchi  1.644199e-04
+N=1640  NS=20731 NS/N=12.6

@@ -1,0 +1,20 @@
+b7      froot        # fileroot for outputs
+0.005    dt           # timestep
+200.    tmax         # integrate to this time
+2.0     t_print      # output between timesteps
+0       lattice_type # particle lattice 0=rand 1=hcp 2=cubic
+0.12    b_distance   # min interparticle distance
+2.3     mush_fac     # sets max spring length
+8.0e-2  ks           # spring constant
+5.0     gamma_fac    # how much higher is gamma initially? 
+4.0     gamma_all    # spring damping final
+5.0     t_damp       # time to switch damping
+0.28233  ratio1       # axis ratio for body b/a
+0.28233  ratio2       # second axis ratio   c/a
+0.3536  omegax       # initial body spin
+0.0     omegay 
+0.0522  omegaz   
+0.0     obliquity    # obliquity degrees
+0       pointmass    #  number of point masses, below each 2 lines per pt mass
+1e6    10.0 0.0  0.0  0.0          #  mass,rad,itaua,itaue,itmig 
+300.0  0.0  0.0  0.0  0.0  0.0     #  aa,ee,ii,longnode,argperi,meananom for extended body

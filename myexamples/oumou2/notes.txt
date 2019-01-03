@@ -1,0 +1,8 @@
+setting up constant theta, omega_tilde but varying h simulations
+for oblates all parmfiles made x?,y?,z?
+parmfiles made for a? b? c?
+rerunning c9,a9
+
+prolates is all prolates included from ../oumou3
+
+associated notebook is olates_prolates_vary_h.ipynb

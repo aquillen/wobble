@@ -1,0 +1,2 @@
+# t x y z vx vy vz omx omy omz llx lly llz Ixx Iyy Izz Ixy Iyz Ixz KErot PEspr PEgrav Etot
+0.000 nan nan nan nan nan nan nan nan nan 0.0000e+00 0.0000e+00 0.0000e+00 0.00000 0.00000 0.00000 0.00000 0.00000 0.00000 0.00000e+00 0.00000e+00 -0.0000000000e+00 0.0000000000e+00

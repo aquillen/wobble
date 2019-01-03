@@ -1,0 +1,17 @@
+a inf
+b nan
+c nan
+vol_ratio nan
+Young's_modulus 0.000000
+Young's_modulus big 0.000000
+mush_distance 0.0000
+mean_L (mean spring length)  nan
+relaxation_time  nan
+viscosity   nan
+sqrt I1/I3  nan should be an axis ratio 
+sqrt I1/I2  nan should be an axis ratio 
+theta = nan radians, nan (degrees)
+omega_prec= nan
+omega_3= nan
+barchi  nan
+N=0  NS=0 NS/N=nan

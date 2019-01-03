@@ -1,0 +1,3 @@
+bennu shape mode with cores 
+
+associated notebook is wobble_bennu_core.ipynb

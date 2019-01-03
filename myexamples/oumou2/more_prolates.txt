@@ -1,0 +1,7 @@
+#  series d
+#tilde_om, h, theta, omega_x, omega_z, omega_prec
+1   0.50 1.1111 0.1745 0.0777 0.4924 -0.0517 -6.2e-10  now ok
+2   0.50 1.1111 1.3963 0.4407 0.0868 -0.0091 -4.4e-10 84 degrees somehow?
+3   0.50 5.0000 0.1745 0.0067 0.4924 -0.4545 -7.0e-10 10degrees still dropping though
+3b  damping longer  again                    -1.0e-10 is better     , still slightly dropping                              
+4   0.50 5.0000 1.3963 0.0379 0.0868 -0.0801 -1.5e-11 redoing w longer damping, still dropping

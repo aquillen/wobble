@@ -1,0 +1,15 @@
+a 1.308
+b 0.874
+c 0.874
+vol_ratio 1.000000
+Young's_modulus 3.586445
+Young's_modulus big 3.345342
+mush_distance 0.2760
+mean_L (mean spring length)  0.2101
+relaxation_time  1.473e-02
+viscosity   1.971e-02
+theta = 0.781146 radians, 44.756375 (degrees)
+omega_prec= -1.352e-01
+omega_3= 0.498189
+barchi  1.992077e-03
+N=1697  NS=22672 NS/N=13.4
